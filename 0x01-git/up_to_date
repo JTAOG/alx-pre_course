@@ -1,0 +1,7 @@
+git add .
+git pull
+git push
+git commit -m "comment"
+git branch
+git config --global user.email "email"
+git config --global user.name "name"
